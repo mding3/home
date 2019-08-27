@@ -28,6 +28,7 @@ z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 
 # Begin Unbreak whitelist.
 
+#Amazon
 aan.amazon.com
 aax-eu.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
@@ -37,5 +38,32 @@ fls-na.amazon-adsystem.com
 fls-eu.amazon.com
 fls-eu.amazon.de
 s.amazon-adsystem.com
+aan.amazon-adsystem.com
+aax-us-pdx.amazon-adsystem.com
+aax.amazon-adsystem.com
+amazon.co.uk
+amazon.com
+amazon.in
+amazonaws.com
+c.amazon-adsystem.com
+completion.amazon.co.uk
+s3-ap-southeast-1.amazonaws.com
+s3-eu-west-1.amazonaws.com
+s3-us-west-2.amazonaws.com
+s3.amazonaws.com
+s3.ap-northeast-2.amazonaws.com
+s3.ap-south-1.amazonaws.co
+smile.amazon.com
+sqs.us-east-1.amazonaws.com
+
+#Chinese
+baidu.com
+
+#Social Media
+es-la.facebook.com
+graph.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
+
 www.youporn.com
 www.pornhub.com
