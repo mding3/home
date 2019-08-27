@@ -57,7 +57,7 @@ smile.amazon.com
 sqs.us-east-1.amazonaws.com
 
 #Chinese
-baidu.com
+www.baidu.com
 
 #Social Media
 es-la.facebook.com
